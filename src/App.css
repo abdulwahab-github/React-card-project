@@ -1,0 +1,38 @@
+
+.ok{
+    padding: 10vh;
+}
+.pora{
+    background-color: #bfd8bd;
+    width: 50vh;
+    
+    border-radius: 8px;
+    padding: 6vh;
+}
+.title{
+    color: #ffb700;
+}
+.pora p{
+    color: #252323;
+}
+.aja{
+    display: inline-block;
+   
+  
+}
+input{
+margin-left: 60vh;
+width: 80vh;
+padding:    1.5vh;
+border-radius: 5px;
+
+}
+.di{
+    display: flex;
+    justify-content: center;
+}
+.aja img{
+    width: 30vh;
+    height: 25vh;
+
+}
